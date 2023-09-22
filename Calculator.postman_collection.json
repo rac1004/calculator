@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "97e87065-e658-41e7-85e2-23429c04e601",
+		"name": "Calculator",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "14004867"
+	},
+	"item": [
+		{
+			"name": "getWithoutUsingSwitch",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "getUsingSwitch",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
